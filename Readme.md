@@ -36,7 +36,7 @@
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 ># [LIVE [HOSTED] PROJECT LINK](https://a-simple-teamable-app.vercel.app/ "Teamable App")
 
->![Screenshot](./Screenshot/screenshot-1.png)
+>![Screenshot](./screenshot/screenshot-1.png)
 
 
 
